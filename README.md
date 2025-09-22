@@ -1,3 +1,3 @@
-# Aayush.html
+# aayush-html
 
 aayush.html
